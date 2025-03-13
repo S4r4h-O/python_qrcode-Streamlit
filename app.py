@@ -10,7 +10,7 @@ import io
 img_embed = st.file_uploader("Select a file", type=["png", "jpg", "jpeg"])
 
 # Perguntar os dados do qr
-data = st.text_input("Digite os dados para o QR Code:")
+data = st.text_input("QR Code content:")
 
 # Função para converter imagem em bytes
 
