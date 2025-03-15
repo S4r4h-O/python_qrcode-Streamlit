@@ -5,5 +5,8 @@ Very simple Streamlit app for [python_qrcode](https://github.com/lincolnloop/pyt
 TODO:
 
 - [ ] Multiple generation from list
-- [ ] More styles
+- [x] More styles
 - [ ] Fix embedded image
+- [ ] Print function
+- [ ] Download all (multiple mode)
+- [ ] Download selection (multiple mode)
